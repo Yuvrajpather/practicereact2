@@ -1,0 +1,11 @@
+.fbContainer {
+    background-color: lightgrey;
+    min-height: 100px;
+    width: 80%;
+    margin: 50px auto;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
